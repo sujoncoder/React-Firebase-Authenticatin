@@ -15,7 +15,7 @@ const Navbar = () => {
     <header className='bg-purple-200 w-full h-14 px-4 flex justify-between items-center'>
 
       {/* Logo section */}
-      <h1 className='text-2xl font-bold cursor-pointer  '>Firebase</h1>
+      <h1 className='text-2xl font-bold cursor-pointer text-slate-500'>Firebase.</h1>
 
       {/* Desktop nav section */}
       <div className='hidden sm:flex space-x-4 font-semibold text-slate-500 cursor-pointer'>
